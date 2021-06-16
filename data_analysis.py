@@ -11,9 +11,6 @@ import seaborn as sns
 import matplotlib.pyplot as plt
 import matplotlib as mpl
 
-from kowalski.utils.plotting import *
-from kowalski.utils.utils import *
-
 
 """
 loading data to get started
